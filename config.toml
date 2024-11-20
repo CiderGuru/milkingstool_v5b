@@ -60,12 +60,6 @@ disableKinds = ["page", "section", "taxonomy"]
         url = "https://github.com/CiderGuru/"
 
     [[params.links]]
-        iconset = "fab"
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/"
-
-    [[params.links]]
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
