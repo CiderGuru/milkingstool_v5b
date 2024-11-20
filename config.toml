@@ -24,15 +24,25 @@ disableKinds = ["page", "section", "taxonomy"]
         url = "https://bsky.app/profile/stablemilkingstool.co.uk"
 
     [[params.links]]
+        icon = "threads"
+        title = "Threads"
+        url = "https://www.threads.net/@very.stable.milking.stool"
+
+    [[params.links]]
+        icon = "mastodon"
+        title = "Mastodon"
+        url = "https://mastodonapp.uk/@Stool"
+
+    [[params.links]]
         iconset = "fab"
         icon = "x-twitter"
         title = "X"
         url = "https://twitter.com/MonkeyOfStool"
 
-[[params.links]]
+    [[params.links]]
         icon = "youtube"
         title = "YouTube"
-        url = "https://www.youtube.com/channel/UCapl-PQf15W4wiP3v6g9v8A"    
+        url = "https://www.youtube.com/@AVeryStableMilkingStool"    
 
     [[params.links]]
         icon = "twitch"
