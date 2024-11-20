@@ -45,10 +45,27 @@ disableKinds = ["page", "section", "taxonomy"]
         url = "https://discord.gg/NDRWjgZkqp"
 
     [[params.links]]
+        icon = "steam"
+        title = "Steam"
+        url = "https://steamcommunity.com/id/StableMilkingStool/"
+
+    [[params.links]]
         icon = "paypal"
         title = "PayPal"
         url = "https://paypal.me/JonesHoward"
     
+    [[params.links]]
+	iconset = "fas"
+        icon = "pound-sign"
+        title = "Cash App"
+        url = "https://cash.app/%C2%A3StableStool"  
+	
+    [[params.links]]
+	iconset = "fab"
+        icon = "patreon"
+        title = "Patreon"
+        url = "https://www.patreon.com/VeryStableMilkingStool?fan_landing=true"    
+
     [[params.links]]
         icon = "amazon"
         title = "Amazon"
