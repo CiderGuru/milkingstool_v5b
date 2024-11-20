@@ -29,6 +29,36 @@ disableKinds = ["page", "section", "taxonomy"]
         title = "X"
         url = "https://twitter.com/MonkeyOfStool"
 
+[[params.links]]
+        icon = "youtube"
+        title = "YouTube"
+        url = "https://www.youtube.com/channel/UCapl-PQf15W4wiP3v6g9v8A"    
+
+    [[params.links]]
+        icon = "twitch"
+        title = "Twitch"
+        url = "https://www.twitch.tv/stable_milking_stool"   
+
+    [[params.links]]
+        icon = "discord"
+        title = "Discord"
+        url = "https://discord.gg/NDRWjgZkqp"
+
+    [[params.links]]
+        icon = "paypal"
+        title = "PayPal"
+        url = "https://paypal.me/JonesHoward"
+    
+    [[params.links]]
+        icon = "amazon"
+        title = "Amazon"
+        url = "https://www.amazon.co.uk/hz/wishlist/ls/3HY734U4GTMET?ref_=wl_share"
+    
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/CiderGuru/"
+
     [[params.links]]
         iconset = "fab"
         icon = "github"
