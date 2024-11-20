@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<style>
+       body {
+          background-color: #F36109;
+        }    
+   </style>
+
+<script src="https://kit.fontawesome.com/965137fdff.js" crossorigin="anonymous"></script>
+
+<main>
+    <div class="portrait-container">
+        <img src="{{ "images/portrait.jpg" | relURL }}" width="300" height="300" class="portrait" alt="Portrait" />
+    </div>
+
+    <div class="content">
+        <h2><b>{{ .Site.Author.name | default "A Very Stable Milking Stool" }}</b></h2>
+        <h2>{{ .Site.Author.bio1 | default "Feeding all The Mermaids." }}</h2>
+        <h2>{{ .Site.Author.bio2 | default "With all The Kebabs." }}</h2>
+        <br>
+        <p>{{- partial "introduction.html" . -}}</p>
+
+        <div class="links">
+            {{- range .Site.Params.links -}}
+                <a rel="me" href="{{ .url }}" title="{{ .title }}">
+                    <span class="{{ .iconset | default "fab" }} fa-{{ .icon }}"></span>
+                </a>
+            {{- end -}}
+        </div>
+
+        {{- partial "footer.html" . -}}
+    </div>
+</main>
+
+{{ end }}
