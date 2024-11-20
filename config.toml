@@ -1,0 +1,46 @@
+baseURL = "https://www.stablemilkingstool.co.uk/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "A Very Stable Milking Stool"
+theme = "stip"
+ignoreErrors = ["error-disable-taxonomy"]
+disableKinds = ["page", "section", "taxonomy"]
+
+[Author]
+    name = "A Very Stable Milking Stool"
+    bio1 = "Feeding all The Mermaids."
+    bio2 = "With all The Kebabs."
+
+[params]
+    [[redirects]]
+        from = '/**'
+        status = 404
+        to = '/404.html'
+
+    [[params.links]]
+        iconset = "fab"
+        icon = "bluesky"
+        title = "Blue Sky"
+        url = "https://bsky.app/profile/stablemilkingstool.co.uk"
+
+    [[params.links]]
+        iconset = "fab"
+        icon = "x-twitter"
+        title = "X"
+        url = "https://twitter.com/MonkeyOfStool"
+
+    [[params.links]]
+        iconset = "fab"
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:stool@stablemilkingstool.co.uk"
+
+
+
+      
