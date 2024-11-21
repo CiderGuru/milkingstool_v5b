@@ -5,6 +5,10 @@ body {
     padding: 1rem;
 }
 
+div.scroller {
+    scrollbar-color: auto;
+} 
+
 html {
     font-family: $sans-serif;
     font-size: 16px;
