@@ -18,11 +18,13 @@ disableKinds = ["page", "section", "taxonomy"]
         to = '/404.html'
 
     [[params.links]]
+        iconset = "fab"
         icon = "bluesky"
         title = "Blue Sky"
         url = "https://bsky.app/profile/stablemilkingstool.co.uk"
 
     [[params.links]]
+        iconset = "fab"
         icon = "threads"
         title = "Threads"
         url = "https://www.threads.net/@very.stable.milking.stool"
