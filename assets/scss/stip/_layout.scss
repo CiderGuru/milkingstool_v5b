@@ -5,9 +5,6 @@ main {
     @media screen and (max-width: $break-large) {
         flex-direction: column;
     }
-    .scroller {
-        scrollbar-color: hotpink blue;
-      }
 }
 .content {
     margin-left: 1rem;
