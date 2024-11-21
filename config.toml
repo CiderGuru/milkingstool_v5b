@@ -18,7 +18,6 @@ disableKinds = ["page", "section", "taxonomy"]
         to = '/404.html'
 
     [[params.links]]
-        iconset = "fab"
         icon = "bluesky"
         title = "Blue Sky"
         url = "https://bsky.app/profile/stablemilkingstool.co.uk"
@@ -71,7 +70,6 @@ disableKinds = ["page", "section", "taxonomy"]
         url = "https://cash.app/%C2%A3StableStool"  
 	
     [[params.links]]
-	iconset = "fab"
         icon = "patreon"
         title = "Patreon"
         url = "https://www.patreon.com/VeryStableMilkingStool?fan_landing=true"    
