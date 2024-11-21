@@ -72,6 +72,7 @@ disableKinds = ["page", "section", "taxonomy"]
         url = "https://cash.app/%C2%A3StableStool"  
 	
     [[params.links]]
+        iconset = "fab"
         icon = "patreon"
         title = "Patreon"
         url = "https://www.patreon.com/VeryStableMilkingStool?fan_landing=true"    
