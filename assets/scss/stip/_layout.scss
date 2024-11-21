@@ -4,8 +4,12 @@ main {
 
     @media screen and (max-width: $break-large) {
         flex-direction: column;
+    
     }
+    @media (forced-colors: active);
+
 }
+
 .content {
     margin-left: 1rem;
     max-width: 50vw;
