@@ -89,7 +89,3 @@ disableKinds = ["page", "section", "taxonomy"]
         icon = "envelope"
         title = "E-mail"
         url = "mailto:stool@stablemilkingstool.co.uk"
-
-
-
-      
