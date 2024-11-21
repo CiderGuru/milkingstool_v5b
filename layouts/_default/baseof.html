@@ -2,6 +2,9 @@
 <html lang="{{ .Site.LanguageCode | default "en" }}">
     {{- partial "head.html" . -}}
     <body>
+        div.scroller {
+           scrollbar-color: auto | initial initial;
+        } 
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}
     </body>
