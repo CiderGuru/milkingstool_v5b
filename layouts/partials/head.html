@@ -22,11 +22,13 @@
     {{- $style			:= resources.Get "scss/stip.scss" | resources.ExecuteAsTemplate "style.hallo.scss" . | toCSS $cssOptions }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
-    <style>
+   <!--  Background Pic
+     <style>
         body {
             background: url('{{ "images/background.jpg" | absURL }}');
         }    
     </style>
+    -->
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400">
