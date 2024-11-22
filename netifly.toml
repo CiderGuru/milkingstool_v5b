@@ -1,14 +1,14 @@
 [build]
-command = “hugo”
-context = “production”
-publish = “public”
+command = "hugo"
+context = "production"
+publish = "public/"
 
 [build.environment]
-HUGO_VERSION = “0.119.0”
+HUGO_VERSION = "0.119.0"
 
 [context.production.environment]
-HUGO_VERSION = “0.119.0”
-HUGO_ENV = “production”
+HUGO_VERSION = "0.119.0"
+HUGO_ENV = "production"
 
 [build.processing.html]
   pretty_urls = true
