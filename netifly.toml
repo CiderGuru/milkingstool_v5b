@@ -9,3 +9,6 @@ HUGO_VERSION = “0.119.0”
 [context.production.environment]
 HUGO_VERSION = “0.119.0”
 HUGO_ENV = “production”
+
+[build.processing.html]
+  pretty_urls = true
