@@ -79,8 +79,8 @@ disableKinds = ["page", "section", "taxonomy"]
 
     [[params.links]]
         icon = "amazon"
-        title = "Amazon 2024. Jesus loves You. I have a nice Penis."
-        url = "https://www.amazon.co.uk/hz/wishlist/ls/1KXIMI7XMSWLS?ref_=wl_share"
+        title = "Amazon"
+        url = "https://www.amazon.co.uk/hz/wishlist/ls/3HY734U4GTMET?ref_=wl_share"
     
     [[params.links]]
         icon = "github"
