@@ -23,16 +23,16 @@ disableKinds = ["page", "section", "taxonomy"]
         title = "Blue Sky"
         url = "https://bsky.app/profile/stablemilkingstool.co.uk"
 
-    [[params.links]]
-        iconset = "fab"
-        icon = "threads"
-        title = "Threads"
-        url = "https://www.threads.net/@very.stable.milking.stool"
+    # [[params.links]]
+    #    iconset = "fab"
+    #    icon = "threads"
+    #   title = "Threads"
+    #    url = "https://www.threads.net/@very.stable.milking.stool"
 
-    [[params.links]]
-        icon = "mastodon"
-        title = "Mastodon"
-        url = "https://mastodonapp.uk/@Stool"
+    #[[params.links]]
+    #    icon = "mastodon"
+    #    title = "Mastodon"
+    #    url = "https://mastodonapp.uk/@Stool"
 
     [[params.links]]
         iconset = "fab"
@@ -45,31 +45,31 @@ disableKinds = ["page", "section", "taxonomy"]
         title = "YouTube"
         url = "https://www.youtube.com/@AVeryStableMilkingStool"    
 
-    [[params.links]]
-        icon = "twitch"
-        title = "Twitch"
-        url = "https://www.twitch.tv/stable_milking_stool"   
+    #[[params.links]]
+     #   icon = "twitch"
+    #    title = "Twitch"
+    #    url = "https://www.twitch.tv/stable_milking_stool"   
 
-    [[params.links]]
-        icon = "discord"
-        title = "Discord"
-        url = "https://discord.gg/NDRWjgZkqp"
+    #[[params.links]]
+     #   icon = "discord"
+     #   title = "Discord"
+     #   url = "https://discord.gg/NDRWjgZkqp"
 
-    [[params.links]]
-        icon = "steam"
-        title = "Steam"
-        url = "https://steamcommunity.com/id/StableMilkingStool/"
+    #[[params.links]]
+     #   icon = "steam"
+    #    title = "Steam"
+    #    url = "https://steamcommunity.com/id/StableMilkingStool/"
 
     [[params.links]]
         icon = "paypal"
         title = "PayPal"
         url = "https://paypal.me/JonesHoward"
     
-    [[params.links]]
-	iconset = "fas"
-        icon = "pound-sign"
-        title = "Cash App"
-        url = "https://cash.app/%C2%A3StableStool"  
+    #[[params.links]]
+	#iconset = "fas"
+    #    icon = "pound-sign"
+    #    title = "Cash App"
+    #    url = "https://cash.app/%C2%A3StableStool"  
 	
     [[params.links]]
         iconset = "fab"
@@ -77,18 +77,18 @@ disableKinds = ["page", "section", "taxonomy"]
         title = "Patreon"
         url = "https://www.patreon.com/VeryStableMilkingStool?fan_landing=true"    
 
-    [[params.links]]
-        icon = "amazon"
-        title = "Amazon"
-        url = "https://www.amazon.co.uk/hz/wishlist/ls/3HY734U4GTMET?ref_=wl_share"
+    #[[params.links]]
+    #    icon = "amazon"
+    #    title = "Amazon"
+    #    url = "https://www.amazon.co.uk/hz/wishlist/ls/3HY734U4GTMET?ref_=wl_share"
     
-    [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/CiderGuru/"
+    #[[params.links]]
+    #    icon = "github"
+    #    title = "Github"
+    #    url = "https://github.com/CiderGuru/"
 
-    [[params.links]]
-        iconset = "fas"
-        icon = "envelope"
-        title = "E-mail"
-        url = "mailto:stool@stablemilkingstool.co.uk"
+    #[[params.links]]
+    #    iconset = "fas"
+     #   icon = "envelope"
+    #    title = "E-mail"
+     #   url = "mailto:stool@stablemilkingstool.co.uk"
